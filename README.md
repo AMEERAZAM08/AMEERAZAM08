@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCGEcufZIdaHPLAw9Cnm16CA/featured)
 
-- 🤝 I’m looking for help with **Time series Analysis**
+
 
 - 👨‍💻 All of my projects are available at [http://pythoguard.herokuapp.com/examples/landing.html](http://pythoguard.herokuapp.com/examples/landing.html)
 

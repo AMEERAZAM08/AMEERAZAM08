@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameerazam08" alt="ameerazam08" /></a> </p>
 
-- 🔭 I’m currently working on CV,SDE role 
+- 🔭 I’m currently working on DL,ML role 
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **DEEP learning**
 
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCGEcufZIdaHPLAw9Cnm16CA/featured)
 

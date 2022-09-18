@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameerazam08" alt="ameerazam08" /></a> </p>
 
-- 🔭 I’m currently working as Data Scienctist  [Hire Quotient](https://hirequotient.com/)
+- 🔭 I’m currently working as Data Scienctist  [HireQuotient](https://hirequotient.com/)
 
-- 🌱 I’m currently learning **DEEP learning**
+- 🌱 I’m currently learning **Reinforcement learning**
 
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCGEcufZIdaHPLAw9Cnm16CA/featured)
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Python related ML,DS**
 
-- 📫 How to reach me **azamameer08@gmail.com**
+- 📫 How to reach me **ameerazam08@gmail.com**
 
 - 📄 Know about my experiences [X](X)
 

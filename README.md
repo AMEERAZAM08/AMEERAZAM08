@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameerazam08" alt="ameerazam08" /></a> </p>
 
-- 🔭 I’m currently working as Data Scienctist  [HireQuotient](https://hirequotient.com/)
+- 🔭 I’m currently working as Data Scienctist  [link](https://google.com/)
 
 - 🌱 I’m currently learning **Reinforcement learning**
 

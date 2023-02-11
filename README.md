@@ -5,19 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameerazam08" alt="ameerazam08" /></a> </p>
 
-- 🔭 I’m currently working as Data Scienctist  [link](https://google.com/)
+- 🔭 I’m currently working as Data Scienctist  [link]()
 
 - 🌱 I’m currently learning **Reinforcement learning**
 
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCGEcufZIdaHPLAw9Cnm16CA/featured)
+- 📝 I regularly write articles on medium (https://medium.com/@ameerazam08)
 
-
-
-- 👨‍💻 All of my projects are available at [http://pythoguard.herokuapp.com/examples/landing.html](http://pythoguard.herokuapp.com/examples/landing.html)
-
-- 📝 I regularly write articles on [http://pythoguard.herokuapp.com/index.html#](http://pythoguard.herokuapp.com/index.html#)
-
-- 💬 Ask me about **Python related ML,DS**
+- 💬 Ask me about **Python related ML,DS **
 
 - 📫 How to reach me **ameerazam08@gmail.com**
 

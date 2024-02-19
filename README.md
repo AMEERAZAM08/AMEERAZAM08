@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as Data Scienctist  []()
 
-- 🌱 I’m currently learning **Reinforcement learning**
+- 🌱 I’m currently learning **LLMs And Multi MOdels**
 
 - 📝 I regularly write articles on medium (https://medium.com/@ameerazam08)
 

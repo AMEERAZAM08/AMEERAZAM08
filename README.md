@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameerazam08" alt="ameerazam08" /></a> </p>
 
-- 🔭 I’m currently working as AI Scienctist at CSC   []()
+- 🔭 I’m currently working as AI Scienctist    []()
 
 - 🌱 I’m currently learning **LLMs And Multi Models**
 
